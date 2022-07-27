@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "mataBot"
+include ':openCVLibrary3413'
+
